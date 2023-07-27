@@ -6,4 +6,7 @@
       "front_matter_title": ""
     }
   },
+  "github-actions.workflows.pinned.workflows": [
+    ".github/workflows/NewAppPage.yml"
+  ],
 }
